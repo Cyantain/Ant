@@ -11,5 +11,5 @@ package "Ant" where
 require "leanprover-community" / "mathlib" @ "git#v4.17.0"
 
 @[default_target]
-lean_lib «MetaExamples» where
+lean_lib «Ant» where
   -- add any library configuration options here
